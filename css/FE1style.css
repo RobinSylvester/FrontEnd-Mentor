@@ -73,3 +73,8 @@ text-align: center;
 .icons{
   margin-left: 213px;
 }
+
+@media only screen and (max-width: 375px)
+  {
+    .div{position:static;}
+}
